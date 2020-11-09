@@ -12,5 +12,5 @@ Django GraphQL Project, Hackathon Q4
 - run `python manage.py migrate` in the project's root directory
 
 ### RUN API:
-- run: `python manage.py runserver`
-- go to: http://127.0.0.1:8000/graphql/
+- run `python manage.py runserver`
+- go to http://127.0.0.1:8000/graphql/
